@@ -1,0 +1,9 @@
+2024-04-21 15:01:15,346 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-04-21 15:02:06,942 [Worker-8: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tdea.construccion2:app:0.0.1-SNAPSHOT @ C:\Users\villa\Downloads\Construccion2\app\app\pom.xml.
+2024-04-21 15:02:07,289 [Worker-13: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tdea.construccion2:app:0.0.1-SNAPSHOT @ C:\Users\villa\Downloads\Construccion2\app\app\pom.xml.
+2024-04-21 15:02:08,810 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-21 15:02:08,834 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-21 15:02:08,840 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\villa\Downloads\Construccion2\app\app\src\test\resources
+2024-04-21 15:02:10,811 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tdea.construccion2:app:0.0.1-SNAPSHOT @ C:\Users\villa\Downloads\Construccion2\app\app\pom.xml.
+2024-04-21 22:38:46,940 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-04-21 22:53:17,693 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
